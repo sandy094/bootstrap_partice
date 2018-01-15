@@ -1,0 +1,19 @@
+{
+  "name": "partice",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start --server --no-notify --files='index.html, *.css, *.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "browser-sync": "^2.23.3",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "description": ""
+}

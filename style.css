@@ -1,0 +1,15 @@
+.container.demo{
+    height: 100vh;
+    -webkit-font-smoothing:antialiased;
+    color: rgb(32, 143, 240);
+}
+
+.container.demo .row{
+    background-color: rgb(8, 2, 14);
+    border-bottom: 1px solid rgb(214, 36, 36);
+    width: 100%;
+}
+
+.container.demo.row .col{
+    background-color: aquamarine;
+}
